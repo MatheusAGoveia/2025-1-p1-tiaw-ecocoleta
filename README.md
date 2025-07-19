@@ -1,6 +1,19 @@
-# EcoColeta - Frontend & Dashboard
+# EcoColeta
+CURSO: Sistema de informção
+DISCIPLINA : Trabalho Interdiciplinar Aplicação Web 
+1° semestre/2025
 
-Este é o frontend completo da aplicação EcoColeta, um sistema de doações para projetos ambientais com dashboard administrativo integrado.
+EcoColeta é um sistema voltado para otimizar a coleta seletiva e promover a sustentabilidade nas cidades. A plataforma incentiva a conscientização ambiental por meio de uma interface acessível que conecta cidadãos, agentes de coleta e pontos de descarte. Com uma abordagem educativa e prática, o sistema fortalece hábitos sustentáveis e a participação ativa da comunidade na gestão de resíduos.
+
+O sistema conta com um dashboard administrativo integrado, que oferece uma visão estratégica das coletas realizadas, rotas otimizadas, tipos de resíduos e engajamento dos usuários. Isso facilita o controle por parte de cooperativas, órgãos públicos ou administradores locais, tornando o processo mais eficiente, transparente e ecológico.
+#Integrantes
+Matheus Augusto Alves Goveia Damião
+Samuel Maciel da Silva Figueiredo
+Kauan Gomes Marques
+Ronaldo Augusto Oliveira Lacerda
+Artur Ferreira Silva
+#Professora
+Amália Soares Vieira de Vasconcelos
 
 ## 🚀 Funcionalidades
 
